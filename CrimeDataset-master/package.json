@@ -10,7 +10,7 @@
     "chart.js": "^2.8.0",
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.9",
-    "ejs": "^2.6.1",
+    "ejs": "^3.1.7",
     "express": "^4.16.4",
     "express-handlebars": "^3.0.2",
     "handlebar": "^1.0.0",
